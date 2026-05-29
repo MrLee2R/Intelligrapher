@@ -66,7 +66,7 @@ Claude 会：
 
 ```bash
 cd your-project/
-git clone https://github.com/YOUR\_USERNAME/Intelligrapher.git .claude/
+git clone https://github.com/MrLee2R/Intelligrapher.git .claude/
 ```
 
 或者手动把 `.claude/skills/` 下的两个目录复制到你的项目里。重启 Claude Code 对话后生效。
