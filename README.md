@@ -6,7 +6,7 @@
 
 Intelligrapher 是一套给 Claude Code 用的科研绘图 Skill。它内置了三套东西：知识库（告诉你这个领域图该怎么画）、审美库（顶刊配色直接拿来用）、模板库（不用从零写代码）。三样东西配合，你的需求进去，可运行的 Python 脚本出来。
 
-!\[Comparison of Average Completion Time](example/machine\_comparison.png)
+![image](example/machine\_comparison.png)
 
 上图就是用 Intelligrapher 生成的实际效果——从数据到成图，一句话的事。深蓝实线是机器 A，砖红虚线是机器 B，阴影带表示方差范围，配色来自 Engineering Structures 的风格库。
 
